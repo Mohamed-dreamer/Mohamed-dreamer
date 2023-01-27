@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohamed-dreamer
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning Html, Css and Javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mohamedc706@hotmail.com
 
 <!---
