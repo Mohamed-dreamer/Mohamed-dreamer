@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate frontend developer from somalia</h3>
-
+<h3 align="center">A helpless and lost Junior developer</h3>
+(img align="right" alt="Coding" width="400" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa67a0e54-1699-46f7-abc8-e2dfd15607d4_498x498.gif")
 - 🌱 I’m currently learning **Javascript**
 
-- ⚡ Fun fact **I am lazy**
+- ⚡ Fun fact **I am Handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mohamed_abdi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_abdi2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
