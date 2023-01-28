@@ -15,3 +15,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-dreamer&" alt="mohamed-dreamer" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohamed-dreamer&theme=highcontrast)](https://git.io/streak-stats)
+
