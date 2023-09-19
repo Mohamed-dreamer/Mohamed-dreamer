@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- ⚡ Fun fact **I am Handsome**
+- ⚡ Fun fact **I am Fat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
