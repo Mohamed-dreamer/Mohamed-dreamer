@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A helpless and lost Junior developer</h3>
+<h3 align="center">A helpless and lost developer</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **python**
 
-- ⚡ Fun fact **I am Fat**
+- ⚡ Fun fact **I am .........**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
